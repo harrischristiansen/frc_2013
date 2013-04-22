@@ -1,0 +1,6 @@
+MIDlet-Name: UtCompBot13
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: UtCompBot, , edu.first.team3245.UtCompBot
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
